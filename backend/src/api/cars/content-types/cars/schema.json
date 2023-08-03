@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "carss",
+  "info": {
+    "singularName": "cars",
+    "pluralName": "carss",
+    "displayName": "Cars",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "price": {
+      "type": "biginteger"
+    },
+    "image": {
+      "type": "text"
+    },
+    "info": {
+      "type": "richtext"
+    }
+  }
+}

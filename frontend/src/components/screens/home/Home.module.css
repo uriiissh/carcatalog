@@ -1,0 +1,27 @@
+.item {
+  border: 1px solid gray;
+  width: 100%;
+  margin-bottom: 10px;
+  border-color:cadetblue
+}
+
+.items{
+
+}
+
+.image {
+  display: flex;
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 300px;
+}
+
+.info {
+  padding: 10px;
+}
+
+.cards{
+  border: none;
+}

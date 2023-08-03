@@ -1,0 +1,18 @@
+.carcard{
+  display: flex;
+  flex-direction: column;
+  width: 75vw;
+  gap: 50px;
+}
+
+.btn{
+  padding: 30px;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  margin: 10px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
